@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdrwsh
-- 👀 I’m interested in compiler development
-- 🌱 I’m currently learning python and C
-- 💞️ I’m looking to collaborate on open-source UWP apps
+- 🕵️ Pure love for problem-solving and logical thinking
+- 📌 Understanding above remembering
+- 📂 Checkout my projects!
 - 📫 How to reach me dxrwish0201@gmail.com
 
 <!---
